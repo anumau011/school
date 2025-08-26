@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Delhi University",
+    "address": "Delhi University, Delhi Campus",
+    "latitude": 28.704060,
+    "longitude": 77.102493
+  },
+  {
+    "name": "Mumbai Institute of Technology",
+    "address": "Mumbai Institute of Technology, Mumbai Campus",
+    "latitude": 19.076000,
+    "longitude": 72.877700
+  },
+  {
+    "name": "Chennai Science College",
+    "address": "Chennai Science College, Chennai Campus",
+    "latitude": 13.082680,
+    "longitude": 80.270721
+  },
+  {
+    "name": "Kolkata Engineering College",
+    "address": "Kolkata Engineering College, Kolkata Campus",
+    "latitude": 22.572645,
+    "longitude": 88.363892
+  },
+  {
+    "name": "Bangalore Polytechnic",
+    "address": "Bangalore Polytechnic, Bangalore Campus",
+    "latitude": 12.971599,
+    "longitude": 77.594566
+  },
+  {
+    "name": "Hyderabad Academy",
+    "address": "Hyderabad Academy, Hyderabad Campus",
+    "latitude": 17.385044,
+    "longitude": 78.486671
+  },
+  {
+    "name": "Pune College of Engineering",
+    "address": "Pune College of Engineering, Pune Campus",
+    "latitude": 18.520430,
+    "longitude": 73.856743
+  },
+  {
+    "name": "Lucknow Science College",
+    "address": "Lucknow Science College, Lucknow Campus",
+    "latitude": 26.846695,
+    "longitude": 80.946167
+  },
+  {
+    "name": "Jaipur University",
+    "address": "Jaipur University, Jaipur Campus",
+    "latitude": 26.912434,
+    "longitude": 75.787270
+  },
+  {
+    "name": "Indore Institute of Technology",
+    "address": "Indore Institute of Technology, Indore Campus",
+    "latitude": 22.719568,
+    "longitude": 75.857727
+  },
+  {
+    "name": "Ahmedabad Academy",
+    "address": "Ahmedabad Academy, Ahmedabad Campus",
+    "latitude": 23.022505,
+    "longitude": 72.571365
+  },
+  {
+    "name": "Surat Science College",
+    "address": "Surat Science College, Surat Campus",
+    "latitude": 21.170240,
+    "longitude": 72.831062
+  },
+  {
+    "name": "Nagpur Polytechnic",
+    "address": "Nagpur Polytechnic, Nagpur Campus",
+    "latitude": 21.145800,
+    "longitude": 79.088158
+  },
+  {
+    "name": "Patna Engineering College",
+    "address": "Patna Engineering College, Patna Campus",
+    "latitude": 25.594095,
+    "longitude": 85.137566
+  },
+  {
+    "name": "Bhopal Institute of Science",
+    "address": "Bhopal Institute of Science, Bhopal Campus",
+    "latitude": 23.259933,
+    "longitude": 77.412613
+  },
+  {
+    "name": "Kanpur University",
+    "address": "Kanpur University, Kanpur Campus",
+    "latitude": 26.449923,
+    "longitude": 80.331871
+  },
+  {
+    "name": "Varanasi Polytechnic",
+    "address": "Varanasi Polytechnic, Varanasi Campus",
+    "latitude": 25.317645,
+    "longitude": 82.973915
+  },
+  {
+    "name": "Coimbatore Institute of Technology",
+    "address": "Coimbatore Institute of Technology, Coimbatore Campus",
+    "latitude": 11.016844,
+    "longitude": 76.955833
+  },
+  {
+    "name": "Mysore Science Academy",
+    "address": "Mysore Science Academy, Mysore Campus",
+    "latitude": 12.295810,
+    "longitude": 76.639381
+  },
+  {
+    "name": "Trivandrum Engineering College",
+    "address": "Trivandrum Engineering College, Trivandrum Campus",
+    "latitude": 8.524139,
+    "longitude": 76.936638
+  }
+]
