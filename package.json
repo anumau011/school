@@ -1,8 +1,8 @@
 {
   "scripts": {
+    "postinstall": "prisma generate",
     "start": "node src/app.js",
     "test": "jest",
-    "prisma:generate": "npx prisma generate"
   },
   "dependencies": {
     "@prisma/client": "^6.14.0",
