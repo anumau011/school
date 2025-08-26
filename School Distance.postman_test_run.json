@@ -1,0 +1,66 @@
+{
+	"id": "b2d223b2-cb25-4a7b-ac96-9ad27885bc3d",
+	"name": "School Distance",
+	"timestamp": "2025-08-26T06:16:37.022Z",
+	"collection_id": "37688741-568881ed-0e32-478f-a2fe-85d52d8eadb6",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-08-26T06:16:35.017Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "b98c9601-b5ed-4e7d-ae02-e35fa4131d8f",
+			"name": "POST SCHOOL",
+			"url": "https://school-ss08.onrender.com/addSchool",
+			"time": 558,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				558
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "79add89f-b46b-415b-9c3f-aeb3dce75e0e",
+			"name": "GET SCHOOL",
+			"url": "https://school-ss08.onrender.com/listSchools?latitude=28.7013711&longitude=77.4357627",
+			"time": 1019,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1019
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1577,
+	"collection": {
+		"requests": [
+			{
+				"id": "b98c9601-b5ed-4e7d-ae02-e35fa4131d8f",
+				"method": "POST"
+			},
+			{
+				"id": "79add89f-b46b-415b-9c3f-aeb3dce75e0e",
+				"method": "GET"
+			}
+		]
+	}
+}
